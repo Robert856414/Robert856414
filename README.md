@@ -12,6 +12,8 @@
 - It Does Not Install On Machines With A CPU That Has More Then One Core Or Too Much Memory
 - It Can't Be Installed From A DVD Drive Unless Its Allready Installed On The Hardware Or On A Vertual Machine And It Will Not Install On Machines With USB Devices Pluged Into Them!
 
+- Im The Only PC Repair Technician That Knows The Buisness Of Fixing PC's Is A SCAM And That Is The Reason I Only Fix PC's For Myself Only That Is The Only Way I Can Avoid Ripping People Off And Remain Completely Honest When It Comes To Fixing PC's!!!!!!!!  
+
 - Thank You For Your Time! 
 
 <!---
